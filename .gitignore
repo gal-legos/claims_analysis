@@ -1,6 +1,5 @@
 # Data files (too large for GitHub)
-data/*.csv
-data/*.txt
+
 
 # Python
 __pycache__/
